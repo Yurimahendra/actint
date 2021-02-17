@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ActInt</string>
+    <string name="title_activity_other">OtherActivity</string>
+    <string name="title_activity_an_other">AnOtherActivity</string>
+    <string name="title_activity_intent_objek">IntentObjekActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+</resources>
